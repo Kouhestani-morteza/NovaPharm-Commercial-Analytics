@@ -1,3 +1,23 @@
+-- | Year-over-Year Product Growth
+--
+-- Business question:
+-- How much did each product grow from 2024 to 2025?
+--
+-- I used a CTE and conditional aggregation to calculate
+-- annual net sales for each product.
+--
+-- The year-over-year growth rate was then calculated as:
+--
+-- (2025 Sales - 2024 Sales) / 2024 Sales * 100
+--
+-- Key finding:
+-- All four products recorded positive sales growth in 2025.
+-- GlucoRelief had the highest YoY growth, while RespiraX
+-- had the lowest growth rate among the four products.
+--
+-- This analysis compares sales growth, not market share
+-- growth or overall product profitability.
+
 WITH ProductSales AS
 (
     SELECT
