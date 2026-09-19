@@ -159,15 +159,14 @@ This overlap suggests an area worth investigating further. However, the availabl
 
 The first dashboard provides an overview of sales, targets, growth, market share, and product and regional performance.
 
-![Commercial Performance Dashboard](screenshots/commercial_performance_dashboard.png)
+![Commercial Performance Dashboard](screenshots/Commercial%20Performance%20Dashboard.png)
 
 
 ### Sales Force Effectiveness
 
 The second dashboard focuses on field sales activities, HCP reach, target coverage, and identifying unreached target HCPs.
 
-![Sales Force Effectiveness Dashboard](screenshots/sales_force_effectiveness_dashboard.png)
-
+![Sales Force Effectiveness Dashboard](screenshots/Sales%20Force%20Effectiveness%20Dashboard.png)
 ---
 
 ## 7. Limitations
