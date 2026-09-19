@@ -1,3 +1,19 @@
+-- | Sales & Achievement by Product
+--
+-- Business question:
+-- How did each product perform against its 2025 sales target?
+--
+-- I grouped the sales data by product and calculated
+-- total net sales, total target, and achievement percentage.
+--
+-- I also used CASE WHEN to classify each product as
+-- either "Target Met" or "Below Target".
+--
+-- Key finding:
+-- All four products finished below their annual targets.
+-- Cardiovan had the lowest target achievement at 92.30%,
+-- while GlucoRelief was closest to its target at 99.65%.
+
 SELECT
     p.ProductName,
 
