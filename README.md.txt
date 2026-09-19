@@ -161,6 +161,7 @@ The first dashboard provides an overview of sales, targets, growth, market share
 
 ![Commercial Performance Dashboard](screenshots/commercial_performance_dashboard.png)
 
+
 ### Sales Force Effectiveness
 
 The second dashboard focuses on field sales activities, HCP reach, target coverage, and identifying unreached target HCPs.
